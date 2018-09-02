@@ -11,3 +11,7 @@ http://xtremezone.pro
 
 <h1>Paid Scripts</h1>
 http://vanix.market
+
+
+
+# cuz the above idiot charges money for his scripts with bugs i've removed a bunch of bs, made it working properly like intented without any synchronisation issues or bad proxy calls 
